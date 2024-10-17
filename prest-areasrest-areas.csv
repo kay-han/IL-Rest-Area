@@ -1,0 +1,57 @@
+name,route,location,status,district,id,comments,latitude,longitude,td_station,vending,wthr_info,assist_rr,center
+Coalfield,INT 55 Southbound,25 miles South of Springfield (Mile Post 64),Closed,6,4,,39.352261,-89.644688,Y,Y,Y,N,N
+Coalfield,INT 55 Northbound,25 miles South of Springfield (Mile Post 64),Closed,6,4,,39.346493,-89.64082,Y,Y,Y,N,N
+Cumberland Road,INT 70 Westbound,7 miles West of Indiana line (Mile Post 149),Closed,7,20,,39.422809,-87.661666,N,Y,Y,N,Y
+Farm Land,INT 74 Eastbound,23 miles West of Champaign (Mile Post 156),Closed,5,25,,40.273215,-88.676223,Y,Y,Y,Y,N
+Farm Land,INT 74 Westbound,23 miles West of Champaign (Mile Post 156),Closed,5,25,,40.271103,-88.670064,Y,Y,Y,Y,N
+Fort Massac,INT 24 Eastbound,1 mile West of Kentucky line (Mile Post 37),Closed,9,1,,37.159256,-88.679774,Y,Y,Y,N,Y
+Fort Massac,INT 24 Westbound,1 mile West of Kentucky line (Mile Post 37),Closed,9,1,,37.159256,-88.679774,Y,Y,Y,N,Y
+Funks Grove,INT 55 Northbound,10 miles South of Bloomington (Mile Post 149),Closed,5,6,,40.359871,-89.109893,Y,Y,Y,Y,N
+Funks Grove,INT 55 Southbound,10 miles South of Bloomington (Mile Post 149),Closed,5,6,,40.358964,-89.109421,Y,Y,Y,Y,N
+Gateway,INT 64 Westbound,25 miles East of St. Louis (Mile Post 25),Closed,8,15,,38.549088,-89.763343,N,Y,Y,N,N
+Gateway,INT 64 Eastbound,25 miles East of St. Louis (Mile Post 25),Closed,8,15,,38.548123,-89.773096,N,Y,Y,N,N
+Goshen Road,INT 64 Westbound,4 miles East of Mt Vernon (Mile Post 85),Closed,9,16,,38.27658,-88.801224,Y,Y,Y,Y,N
+Goshen Road,INT 64 Eastbound,4 miles East of Mt Vernon (Mile Post 85),Closed,9,16,,38.272958,-88.849558,Y,Y,Y,Y,N
+Great Sauk Trail,INT 80 Westbound,5 miles West of Princeton (Mile Post 51),Closed,3,28,,41.393737,-89.559088,Y,Y,Y,N,N
+Great Sauk Trail,INT 80 Eastbound,5 miles West of Princeton (Mile Post 51),Closed,3,28,,41.393745,-89.566491,Y,Y,Y,N,N
+Green Creek,INT 57 Southbound,4 miles North of Effingham (Mile Post 165),Closed,7,11,,39.19927,-88.502036,Y,Y,Y,N,N
+Green Creek,INT 57 Northbound,4 miles North of Effingham (Mile Post 165),Closed,7,11,,39.189824,-88.502651,Y,Y,Y,N,N
+Homestead,INT 55 Southbound,8 miles North of I-70 interchange (Mile Post 27),Closed,8,3,,38.872254,-89.851143,N,Y,Y,Y,N
+Homestead, INT 55 Northbound,8 miles North of I-70 interchange (Mile Post 27),Closed,8,3,,38.864861,-89.853154,N,Y,Y,Y,Y
+Illini Prairie,INT 57 Northbound,14 miles South of Champaign (Mile Post 222),Closed,5,12,,39.921816,-88.298997,N,Y,Y,N,N
+Illini Prairie,INT 57 Southbound,14 miles South of Champaign (Mile Post 222),Closed,5,12,,39.93136,-88.30434,N,Y,Y,N,N
+KrisdalaBaka,INT 74 Westbound,28 miles SouthEast of Rock Island (Mile Post 28),Closed,2,22,,41.21407,-90.330727,Y,Y,Y,N,N
+KrisdalaBaka,INT 74 Eastbound,28 miles SouthEast of Rock Island (Mile Post 28),Closed,2,22,,41.233752,-90.333034,Y,Y,Y,N,N
+Limestone,INT 55 Northbound,3 miles South of Pontiac (Mile Post 194),Closed,3,7,,40.82339,-88.687531,Y,Y,Y,N,N
+Limestone,INT 55 Southbound,3 miles South of Pontiac (Mile Post 194),Closed,3,7,,40.837101,-88.683325,Y,Y,Y,N,N
+Mackinaw Dells,INT 74 Westbound,14 miles West of Bloomington (Mile Post 114),Closed,4,24,,40.61155,-89.232706,Y,Y,Y,N,N
+Mackinaw Dells,INT 74 Eastbound,14 miles West of Bloomington (Mile Post 114),Closed,4,24,,40.61212,-89.245162,Y,Y,Y,N,N
+Main Line Station,INT 57 Northbound,18 miles North of Rantoul (Mile Post 268),Closed,3,13,,40.550486,-88.060516,Y,Y,Y,N,N
+Main Line Station,INT 57 Southbound,18 miles North of Rantoul (Mile Post 268),Closed,3,13,,40.561286,-88.061514,Y,Y,Y,N,N
+Mississippi Rapids,INT 80 Eastbound,1 mile East of Iowa line (Mile Post 1),Closed,2,27,This location closed to semi-tractor trailer trucks,41.572159,-90.364591,Y,N,Y,N,N
+National Trail,INT 70 Eastbound,8 miles West of Effingham (Mile Post 86),Closed,7,19,,39.065123,-88.674501,Y,Y,Y,N,N
+National Trail,INT 70 Westbound,8 miles West of Effingham (Mile Post 86),Closed,7,19,,39.068163,-88.670515,Y,Y,Y,N,N
+Post Oak,INT 57 Northbound,2 miles South of Salem (Mile Post 114),Closed,8,10,,38.596292,-88.96383,Y,Y,Y,N,N
+Post Oak,INT 57 Southbound,2 miles South of Salem (Mile Post 114),Closed,8,10,,38.59651,-88.967736,Y,Y,Y,N,N
+Prairie View,INT 57 Northbound,27 miles North of Kankakee (Mile Post 333),Closed,1,14,,41.389193,-87.772914,N,Y,Y,N,Y
+Prairie View,INT 57 Southbound,27 miles North of Kankakee (Mile Post 333),Closed,1,14,,41.391793,-87.77492,N,Y,Y,N,Y
+Pride of the Prairie,INT 72 Eastbound,12 miles East of Decatur (Mile Post 152),Closed,7,21,,39.992267,-88.782728,Y,Y,Y,N,N
+Pride of the Prairie,INT 72 Westbound,12 miles East of Decatur (Mile Post 152),Closed,7,21,,39.988814,-88.787963,Y,Y,Y,N,N
+RailSplitter,INT 55 Northbound,5 miles North of Springfield (Mile Post 104),Closed,6,5,,39.864834,-89.594745,N,Y,N,N,N
+RailSplitter,INT 55 Southbound,5 miles North of Springfield (Mile Post 104),Closed,6,5,,39.887189,-89.5971,N,Y,N,N,N
+Rend Lake,INT 57 Northbound,At Rend Lake ( Mile Post 79),Closed,9,9,,38.030752,-88.923769,N,Y,Y,N,Y
+Rend Lake,INT 57 Southbound,At Rend Lake ( Mile Post 79),Closed,9,9,,38.095086,-88.913791,N,Y,Y,N,Y
+Salt Kettle,INT 74 Westbound,7 miles West of Danville (Mile Post 208),Closed,5,26,,40.129825,-87.744088,N,Y,Y,N,Y
+Silver Lake,INT 70 Westbound,27 miles East of St Louis (Mile Post 27),Closed,8,18,,38.788362,-89.688869,N,Y,Y,N,N
+Silver Lake,INT 70 Eastbound,27 miles East of St Louis (Mile Post 27),Closed,8,18,,38.7849,-89.702307,N,Y,Y,N,Y
+Skeeter,INT 64 Westbound,1 mile West of Indiana line (Mile Post 130),Closed,9,17,,38.231929,-87.988582,Y,Y,N,N,N
+Spoon River,INT 74 Eastbound,12 miles East of Galesburg (Mile Post 62),Closed,4,23,,40.877954,-90.092515,N,Y,Y,N,N
+Spoon River,INT 74 Westbound,12 miles East of Galesburg (Mile Post 62),Closed,4,23,,40.880457,-90.088813,N,Y,Y,N,N
+Three Rivers,INT 80 Westbound,8 miles West of I-55 Interchange (Mile Post 117),Closed,3,29,,41.447339,-88.328463,Y,Y,Y,N,N
+Three Rivers,INT 80 Eastbound,8 miles West of I-55 Interchange (Mile Post 117),Closed,3,29,,41.431402,-88.345388,Y,Y,Y,N,N
+Trail of Tears,INT 57 Northbound,32 miles North of Missouri border ( Mile Post 32),Closed,9,8,,37.466045,-89.132402,Y,Y,Y,N,Y
+Trail of Tears,INT 57 Southbound,32 miles North of Missouri border ( Mile Post 32),Closed,9,8,,37.46986,-89.132933,Y,Y,Y,N,N
+Turtle Creek,INT 90 Southbound,2 miles South of Wisconsin line (MIle Post 2),Closed,2,30,This location closed to semi-tractor trailer trucks,42.48088,-88.99612,N,Y,Y,Y,N
+Willow Creek,INT 39 Southbound,16 miles North of LaSalle ( Mile Post 85),Closed,2,2,,41.72851,-89.01054,Y,Y,Y,Y,N
+Willow Creek,INT 39 Northbound,16 miles North of LaSalle (Mile Post 85),Closed,2,2,,41.72364,-89.00617,Y,Y,Y,Y,N
+Test site,INT 57 Northbound,23 miles West of Champaign (Mile Post 156),Closed,2,2,This location closed to semi-tractor trailer trucks,41.72364,-88.328463,Y,Y,Y,Y,N
